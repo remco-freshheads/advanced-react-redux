@@ -1,5 +1,8 @@
 # Changelog
 
+## Section 2 Lecture 9 [26 sept. 2018]
+* meer uitleg video gekeken..
+
 ## Section 2 Lecture 8 [26 sept. 2018]
 * uitleg video gekeken..
 
