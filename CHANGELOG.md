@@ -6,6 +6,6 @@
 
 
 ## Section 2 Lecture 5 [26 sept. 2018]
-###Added
+### Added
 * CHANGELOG.md
 * Niet veel; alleen uitleg van video
