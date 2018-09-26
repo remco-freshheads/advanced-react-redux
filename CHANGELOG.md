@@ -1,5 +1,9 @@
 # Changelog
 
+## Section 2 Lecture 14 [26 sept. 2018]
+### Added
+* Start of tests
+
 ## Section 2 Lecture 13 [26 sept. 2018]
 ### Added
 * Test dir 
