@@ -1,5 +1,13 @@
 # Changelog
 
+## Section 2 Lecture 10 [26 sept. 2018]
+### Added
+* section src base files
+
+### Removed
+* create-react-app src files
+
+
 ## Section 2 Lecture 9 [26 sept. 2018]
 * meer uitleg video gekeken..
 
