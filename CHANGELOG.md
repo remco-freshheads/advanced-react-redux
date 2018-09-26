@@ -1,5 +1,9 @@
 # Changelog
 
+## Section 2 Lecture 11 [26 sept. 2018]
+### Added
+* App component
+
 ## Section 2 Lecture 10 [26 sept. 2018]
 ### Added
 * section src base files
