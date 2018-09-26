@@ -1,5 +1,10 @@
 # Changelog
 
+## Section 2 Lecture 12 [26 sept. 2018]
+### Added
+* commentbox 
+* commentlist
+
 ## Section 2 Lecture 11 [26 sept. 2018]
 ### Added
 * App component
