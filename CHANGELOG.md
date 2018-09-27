@@ -1,5 +1,9 @@
 # Changelog
 
+## Section 2 Lecture 16 [27 sept. 2018]
+### Added
+* Simple CommentBox test
+
 ## Section 2 Lecture 15 [27 sept. 2018]
 ### Added
 * Start of tests
