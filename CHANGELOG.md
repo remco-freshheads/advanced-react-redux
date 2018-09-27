@@ -1,5 +1,9 @@
 # Changelog
 
+## Section 2 Lecture 17 [27 sept. 2018]
+### Added
+* video explanation
+
 ## Section 2 Lecture 16 [27 sept. 2018]
 ### Added
 * Simple CommentBox test
