@@ -1,20 +1,10 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { shallow } from 'enzyme';
 import App from '../App';
+import CommentBox from '../CommentBox';
 
 it('shows a comment box', () => {
-    const div = document.createElement('div');
+    const wrapped = shallow(<App />);
 
-    // Render Component <App /> in div
-    ReactDOM.render(<App />, div);
-
-    // check if there's a div with CommentBox
-    expect(div).toContain('Comment Box');
-
-    // Clean up -> cleans memory when there are multiple tests
-    ReactDOM.unmountComponentAtNode(div);
+    expect(wrapped.find(CommentBox).length).toEqual(1);
 });
-
-// it('shows a comment list', () => {
-//
-// });

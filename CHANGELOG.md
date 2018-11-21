@@ -1,5 +1,8 @@
 # Changelog
 
+## Section 2 Lecture 21 [21 nov. 2018]
+* Added test
+
 ## Section 2 Lecture 20 [21 nov. 2018]
 * Enzyme video
 
