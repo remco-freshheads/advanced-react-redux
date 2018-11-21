@@ -9,7 +9,7 @@ it('shows a comment box', () => {
     ReactDOM.render(<App />, div);
 
     // check if there's a div with CommentBox
-    expect(div.innerHTML).toContain('Comment Box');
+    expect(div).toContain('Comment Box');
 
     // Clean up -> cleans memory when there are multiple tests
     ReactDOM.unmountComponentAtNode(div);

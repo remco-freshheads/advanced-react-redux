@@ -1,5 +1,8 @@
 # Changelog
 
+## Section 2 Lecture 19 [21 nov. 2018]
+* Added Enzyme
+
 ## Section 2 Lecture 18 [27 sept. 2018]
 * video explanation
 
@@ -20,11 +23,11 @@
 
 ## Section 2 Lecture 13 [26 sept. 2018]
 ### Added
-* Test dir 
+* Test dir
 
 ## Section 2 Lecture 12 [26 sept. 2018]
 ### Added
-* commentbox 
+* commentbox
 * commentlist
 
 ## Section 2 Lecture 11 [26 sept. 2018]
