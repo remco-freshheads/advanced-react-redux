@@ -13,3 +13,9 @@ it('handles actions of type COMMENT_SAVE', () => {
 
     expect(newState).toEqual([comment]);
 });
+
+it('handles actions with unkown type', () => {
+    const newState = commentsReducer([], { type: 'WEIRD' });
+
+    expect(newState).toEqual([]);
+});
