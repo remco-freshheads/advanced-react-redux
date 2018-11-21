@@ -1,4 +1,5 @@
 import React from 'react';
+import { saveComment } from '../actions';
 
 export default class CommentBox extends React.Component {
     state = {
@@ -11,6 +12,8 @@ export default class CommentBox extends React.Component {
 
     _handleSubmit = (event) => {
         event.preventDefault();
+
+        // this.props.dispatch(saveComment())
 
         this.setState({ comment: '' });
     };
