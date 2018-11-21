@@ -1,11 +1,15 @@
 import React from 'react';
-import { mount, shallow } from 'enzyme';
+import { mount } from 'enzyme';
 import CommentBox from '../CommentBox';
 
 let wrapped;
 
 beforeEach(() => {
     wrapped = mount(<CommentBox/>);
+});
+
+afterEach(() => {
+    wrapped.unmount();
 });
 
 it('has a text area and a button', () => {
