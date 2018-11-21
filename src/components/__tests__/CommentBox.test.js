@@ -25,4 +25,7 @@ it('has a text area that users can type in', () => {
             value: testComment
         }
     });
+    wrapped.update();
+
+
 });
