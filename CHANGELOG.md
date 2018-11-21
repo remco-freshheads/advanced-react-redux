@@ -1,5 +1,8 @@
 # Changelog
 
+## Section 2 Lecture 44 [21 nov. 2018]
+* Added test for comment add and commentbox
+
 ## Section 2 Lecture 21 [21 nov. 2018]
 * Added test
 
